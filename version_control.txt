@@ -1,0 +1,3 @@
+Version control matters because it tracks every change to the code,
+lets teams work in parallel on branches, allows reverting mistakes,
+and keeps a clear history of who changed what and why.
